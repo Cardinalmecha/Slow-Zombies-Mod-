@@ -1,0 +1,21 @@
+[
+
+{
+
+"type": "MOD_INFO",
+
+"id": "slow_zombies",
+
+"name": "Slow Zombies",
+
+"authors": [ "Cardinalmecha" ],
+
+"description": "Makes zombies slower!",
+
+"category": "rebalance",
+
+"dependencies": [ "dda" ]
+
+}
+
+]
